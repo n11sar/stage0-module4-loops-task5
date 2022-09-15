@@ -57,5 +57,6 @@ class TriangleTest extends BaseIOTest {
 
         assertTrue(expected.equals(checked) || expected2.equals(checked));
 
+
     }
 }
